@@ -1,0 +1,19 @@
+{
+  "name": "gemini-api-beartax",
+  "version": "1.0.0",
+  "description": "api integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bear-Tax/GeminiApi.git"
+  },
+  "author": "Harish Nitesh Harisai Sathwik Karan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bear-Tax/GeminiApi/issues"
+  },
+  "homepage": "https://github.com/Bear-Tax/GeminiApi#readme"
+}
