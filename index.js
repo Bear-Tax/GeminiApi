@@ -1,3 +1,4 @@
-exports.printMsg = function() {
-  console.log("Wrapper for Gemini Crypto Currency");
+
+exports.about = function() {
+  console.log("Wrapper for Gemini Cryptocurrency");
 }
