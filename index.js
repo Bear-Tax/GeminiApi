@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-  console.log("Wrapper for Gemini");
+  console.log("Wrapper for Gemini Crypto");
 }
